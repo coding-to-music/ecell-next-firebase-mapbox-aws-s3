@@ -1,3 +1,37 @@
+# ecell-next-firebase-mapbox-aws-s3
+
+# 🚀 University club website 🚀
+
+https://github.com/coding-to-music/ecell-next-firebase-mapbox-aws-s3
+
+https://ecell-next-firebase-mapbox-aws-s3.vercel.app
+
+From / By https://github.com/ecelliitbhu/ecell-website-new
+
+http://ecell-website-new-eight.vercel.app/
+## Environment variables:
+
+```java
+    return (await bcrypt.hash(myPlaintextPassword, parseInt(process.env.SALT_ROUNDS)));
+
+  process.env.MONGO_CONNECTION_URL;
+
+        const decoded = jwt.verify(token, process.env.SECRET_KEY);
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/ecell-next-firebase-mapbox-aws-s3.git
+git push -u origin main
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
