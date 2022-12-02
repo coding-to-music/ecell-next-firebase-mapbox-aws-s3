@@ -9,6 +9,9 @@ https://ecell-next-firebase-mapbox-aws-s3.vercel.app
 From / By https://github.com/ecelliitbhu/ecell-website-new
 
 http://ecell-website-new-eight.vercel.app/
+
+https://ecell-website-new-eight.vercel.app/gallery
+
 ## Environment variables:
 
 ```java
